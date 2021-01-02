@@ -1,0 +1,13 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 29 Aug 2020 12:58:10 at https://www.ptsdbenefits.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.ptsdbenefits.com/ -O1 "D:\JS\ptsdbenefit" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:59:31	Error: 	"Forbidden" (403) at link assets.squarespace.com/universal/images-v6/damask/gallery-play-big.png (from static1.squarespace.com/static/sitecss/5d7f98caa54e0e23a6eca287/16/5c5a519771c10ba3470d8101/5d7f98caa54e0e23a6eca29d/953-05142015/1593483468598/site.css?&filterFeatures=false)
+12:59:31	Error: 	"Forbidden" (403) at link assets.squarespace.com/universal/images-v6/damask/gallery-play-big@2x.png (from static1.squarespace.com/static/sitecss/5d7f98caa54e0e23a6eca287/16/5c5a519771c10ba3470d8101/5d7f98caa54e0e23a6eca29d/953-05142015/1593483468598/site.css?&filterFeatures=false)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 6 seconds : 50 links scanned, 47 files written (9905788 bytes overall) [2939312 bytes received at 23327 bytes/sec], 8982267 bytes transferred using HTTP compression in 17 files, ratio 22%, 2.0 requests per connection
+(2 errors, 0 warnings, 0 messages)
